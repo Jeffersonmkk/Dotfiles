@@ -3,7 +3,6 @@
 <p align="center">
   <img src="./screenshot/screenshot.png" alt="Desktop Preview" width="100%">
 </p>
----
 
 # 🛠️ Stack
 
