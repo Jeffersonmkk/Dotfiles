@@ -1,15 +1,8 @@
 # Dotfiles
 
-# 🖼️ Preview
-
 <p align="center">
   <img src="./screenshot/screenshot.png" alt="Desktop Preview" width="100%">
 </p>
-
-<p align="center">
-  Hyprland desktop setup.
-</p>
-
 ---
 
 # 🛠️ Stack
